@@ -1,5 +1,5 @@
 pipeline {
-    agent {label 'gateway1.squadbazaar.net'}
+    agent {label 'your domain'}
     stages {
         stage('Build') {
         parallel {
