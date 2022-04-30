@@ -1,4 +1,4 @@
-# squadbazaar-gateway-service
+# gateway-service
 
 ## Installation
 
